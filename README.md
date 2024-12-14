@@ -1,7 +1,3 @@
-<div align="center" style="background-color: #F5F5F7; padding: 20px; border-radius: 10px;">
-  <img src="https://github.com/user-attachments/assets/4606963d-a2cf-4e22-8c80-6fdd29fdf9b8" alt="profile image" />
-</div>
-
 ###
 
 <div style="background-color: #F5F5F7; padding: 20px; border-radius: 10px;">
