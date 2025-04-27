@@ -5,14 +5,14 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ About Me</h2>
     <div style="font-size: 16px; text-align: center; color: #2A2A2A; line-height: 2.0;">
-        🎓 <b>광운대학교 정보융합학부 4학년 재학</b>
-        <code>2022.03 ~ 현재</code><br>
-        🖥️ <b>HCI 전공동아리 [CHIC] 활동</b> 
-        <code>2023.12 ~ 2024.02</code> <br>
         🔍 <b>디지털경험분석 연구실 [IDEA Lab.] 학부연구생</b> 
         <code>2024.04 ~ 현재</code> <br>
         🚀 <b>멋쟁이사자처럼 프론트엔드 스쿨 플러스 3기</b> 
-        <code>2024.12 ~ 2025.03</code>
+        <code>2024.12 ~ 2025.03</code> <br>
+        🖥️ <b>HCI 전공동아리 [CHIC] 활동</b> 
+        <code>2023.12 ~ 2024.02</code> <br>
+        🎓 <b>광운대학교 정보융합학부 4학년 재학</b>
+        <code>2022.03 ~ 현재</code>
     </div>
 </div>
 
@@ -29,8 +29,7 @@
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">
         <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white">
-        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
-        <br>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">        <br>
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
