@@ -63,7 +63,6 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #2A2A2A;">🏅 Stats</h2>
     <div style="display: flex; justify-content: center; gap: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=iinuyha&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iinuyha&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iinuyha&bg_color=ffffff&title_color=cc6699&text_color=6a0572"/>
     </div>
 </div>
