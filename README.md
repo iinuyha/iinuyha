@@ -6,7 +6,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ About Me</h2>
     <div style="font-size: 16px; text-align: center; color: #2A2A2A; line-height: 2.0;">
         🔍 <b>광운대학교 디지털경험분석 연구실 [IDEA Lab] 학부연구생</b> 
-        <code>2024.04 ~ 현재</code> <br>
+        <code>2024.04 ~ 2025.07</code> <br>
         🚀 <b>멋쟁이사자처럼 프론트엔드 스쿨 플러스 3기</b> 
         <code>2024.12 ~ 2025.03</code> <br>
         🖥️ <b>HCI 전공동아리 [CHIC] 활동</b> 
