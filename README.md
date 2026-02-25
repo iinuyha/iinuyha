@@ -5,14 +5,16 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">✨ About Me</h2>
     <div style="font-size: 16px; text-align: center; color: #2A2A2A; line-height: 2.0;">
+        <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/637c0172-ce67-4f04-87a7-bc57be593bea" /> <b>비바리퍼블리카 Frontend Developer Assistant 재직</b> 
+        <code>2025.07 ~ 현재</code> <br>
         🔍 <b>광운대학교 디지털경험분석 연구실 [IDEA Lab] 학부연구생</b> 
         <code>2024.04 ~ 2025.07</code> <br>
         🚀 <b>멋쟁이사자처럼 프론트엔드 스쿨 플러스 3기</b> 
         <code>2024.12 ~ 2025.03</code> <br>
         🖥️ <b>HCI 전공동아리 [CHIC] 활동</b> 
         <code>2023.12 ~ 2024.02</code> <br>
-        🎓 <b>광운대학교 정보융합학부 4학년 재학</b>
-        <code>2022.03 ~ 현재</code>
+        🎓 <b>광운대학교 정보융합학부 학사 졸업</b>
+        <code>2022.03 ~ 2026.02</code>
     </div>
 </div>
 
@@ -63,7 +65,7 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #2A2A2A;">🏅 Stats</h2>
     <div style="display: flex; justify-content: center; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=iinuyha&bg_color=ffffff&title_color=cc6699&text_color=6a0572"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iinuyha&bg_color=ffffff&title_color=cc6699&text_color=6a0572"/>
     </div>
 </div>
 
